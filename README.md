@@ -1,23 +1,25 @@
-# Overview
+# Hello World in Python
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a beginner's style, basic Hello World program. 
 
-{Provide a description of your software}
+I wanted to make a quick demonstration of the use of Visual Studio Code, GitHub, and Python integrated together. 
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+
+You can watch a demo of my software here: 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Visial Studio Code
+* Python 3.9 32-bit
+* Git/ GitHub
 
-{Describe the programming language that you used}
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Visual Studio Code and GitHub]https://byui-cse.github.io/cse310-course/modules/psp/README.md
+* [Python 3.9 reference manual]https://docs.python.org/3.9/library/index.html
