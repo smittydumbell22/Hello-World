@@ -8,7 +8,7 @@ I wanted to make a quick demonstration of the use of Visual Studio Code, GitHub,
 
 You can watch a demo of my software here: 
 
-[Software Demo Video](youTube link goes here)
+[Software Demo Video](https://www.youtube.com/watch?v=gnqj-TUVs2w)
 
 # Development Environment
 
