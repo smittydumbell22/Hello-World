@@ -21,5 +21,6 @@ You can watch a demo of my software here:
 # Useful Websites
 
 
-* [Visual Studio Code and GitHub]https://byui-cse.github.io/cse310-course/modules/psp/README.md
-* [Python 3.9 reference manual]https://docs.python.org/3.9/library/index.html
+* [Visual Studio Code](https://code.visualstudio.com/docs) 
+* [GitHub](https://docs.github.com/en/get-started)
+* [Python 3.9 reference manual](https://docs.python.org/3.9/library/index.html)
